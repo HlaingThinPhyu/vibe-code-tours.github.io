@@ -5,8 +5,8 @@ cohort: 1
 role: builder
 skills: ["C# .NET", "SQL", "JavaScript", "Python", "Claude Code"]
 certs:
-  AI Fluency: Framework & Foundations: https://verify.skilljar.com/c/t49g58zwazf6
   claude_101: https://verify.skilljar.com/c/odzbru9g3cok
+  AI_fluency_framework_&_foundations: https://verify.skilljar.com/c/t49g58zwazf6
   claude_code_101: https://verify.skilljar.com/c/27k4mi7ouot6
   claude_code_in_action: https://verify.skilljar.com/c/78k5oyniiqm7
   introduction_to_agent_skills: https://verify.skilljar.com/c/kfnmyubu3i96
