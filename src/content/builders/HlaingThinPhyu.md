@@ -9,8 +9,9 @@ certs:
   AI_fluency_framework_&_foundations: https://verify.skilljar.com/c/t49g58zwazf6
   claude_code_101: https://verify.skilljar.com/c/27k4mi7ouot6
   claude_code_in_action: https://verify.skilljar.com/c/78k5oyniiqm7
-  introduction_to_agent_skills: https://verify.skilljar.com/c/kfnmyubu3i96
-  introduction_to_model_context_protocol: https://verify.skilljar.com/c/n664x3ck7bjs
+  agentskills_intro: https://verify.skilljar.com/c/kfnmyubu3i96
+  mcp_intro: https://verify.skilljar.com/c/n664x3ck7bjs
+  subagents_intro: https://verify.skilljar.com/c/gcqod4iknau9
 # repo: https://github.com/HlaingThinPhyu/HlaingThinPhyu
 # x: your-x-handle
 # linkedin: HlaingThinnPhyu
